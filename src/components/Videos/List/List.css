@@ -1,0 +1,15 @@
+.video-list {
+    width: auto;
+    margin-top: 2em;
+}
+
+.video-list ul {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.video-list ul li {
+    list-style: none;
+    margin: 20px;
+}
